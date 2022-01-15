@@ -1,0 +1,40 @@
+$radius: 10px;
+.cards {
+    border: 2px solid #4877bd;
+    border-radius: $radius;
+  }
+
+  .img {
+    border-radius: $radius $radius 0 0;
+  }
+  .button{
+    display: inline-block;
+    padding: 3px ;
+    width: calc(100% - 0px);
+    font-size: 24px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: #fff;
+    background-color: #882929;
+    border: none;
+    border-radius: 0 0 15px 15px;
+    box-shadow: 0 9px #999;
+    top: 50%;
+    left: 50%;
+}
+.button2{
+    padding: 15px 62px;
+    font-size: 24px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: #fff;
+    background-color: #295a88;
+    border: none;
+    border-radius:15px;
+    box-shadow: 0 9px #999;
+    text-align: center;
+}

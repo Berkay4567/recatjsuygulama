@@ -1,0 +1,31 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders when there are no irems 1`] = `
+<a
+  href="/addnew"
+  onClick={[Function]}
+>
+  <div>
+    <button
+      className="button"
+    >
+       + 
+    </button>
+  </div>
+</a>
+`;
+
+exports[`renders when there are no items 1`] = `
+<a
+  href="/addnew"
+  onClick={[Function]}
+>
+  <div>
+    <button
+      className="button"
+    >
+       + 
+    </button>
+  </div>
+</a>
+`;

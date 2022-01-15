@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders when there are no items 1`] = `
+<nav
+  className="navbar navbar-expand-lg navbar-light bg-light mb-4"
+>
+  <div
+    className="container"
+  >
+    <a
+      className="navbar-brand fs-3 ubuntu"
+      href="/"
+      onClick={[Function]}
+    >
+      Simpsons
+    </a>
+  </div>
+</nav>
+`;

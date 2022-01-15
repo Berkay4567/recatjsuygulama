@@ -1,0 +1,265 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders when there are no iems 1`] = `
+<div
+  className="container"
+>
+  <div>
+    <h1
+      className="text-center mt-5"
+    >
+      Add a new Simpsons
+    </h1>
+    <form>
+      <div
+        className="form-group"
+      >
+        <label>
+          Name Surname:
+        </label>
+        <input
+          className="form-control"
+          onChange={[Function]}
+          placeholder="Full Name"
+          type="name"
+        />
+      </div>
+      <div
+        className="form-group"
+      >
+        <label>
+          Job Title:
+        </label>
+        <input
+          className="form-control"
+          onChange={[Function]}
+          placeholder="Enter job title"
+          type="job"
+        />
+      </div>
+      <div
+        className="form-group"
+      >
+        <label>
+          About Him/Her:
+        </label>
+        <input
+          className="form-control"
+          onChange={[Function]}
+          placeholder="Enter about him/her"
+          type="about"
+        />
+      </div>
+      <div
+        className="form-group"
+      >
+        <label>
+          Image Link
+        </label>
+        <input
+          className="form-control"
+          onChange={[Function]}
+          placeholder="Enter image link"
+          type="img"
+        />
+      </div>
+      <br />
+      <a
+        href="/"
+        onClick={[Function]}
+      >
+        <button
+          className="btn btn-primary form-control"
+          onClick={[Function]}
+          type="button"
+        >
+          Add Character
+        </button>
+      </a>
+      <a
+        className="mt-3 w-100 text-center"
+        href="/"
+        onClick={[Function]}
+      >
+        or get back to contacts
+      </a>
+    </form>
+  </div>
+</div>
+`;
+
+exports[`renders when there are no irems 1`] = `
+<div
+  className="container"
+>
+  <div>
+    <h1
+      className="text-center mt-5"
+    >
+      Add a new Simpsons
+    </h1>
+    <form>
+      <div
+        className="form-group"
+      >
+        <label>
+          Name Surname:
+        </label>
+        <input
+          className="form-control"
+          onChange={[Function]}
+          placeholder="Full Name"
+          type="name"
+        />
+      </div>
+      <div
+        className="form-group"
+      >
+        <label>
+          Job Title:
+        </label>
+        <input
+          className="form-control"
+          onChange={[Function]}
+          placeholder="Enter job title"
+          type="job"
+        />
+      </div>
+      <div
+        className="form-group"
+      >
+        <label>
+          About Him/Her:
+        </label>
+        <input
+          className="form-control"
+          onChange={[Function]}
+          placeholder="Enter about him/her"
+          type="about"
+        />
+      </div>
+      <div
+        className="form-group"
+      >
+        <label>
+          Image Link
+        </label>
+        <input
+          className="form-control"
+          onChange={[Function]}
+          placeholder="Enter image link"
+          type="img"
+        />
+      </div>
+      <br />
+      <a
+        href="/"
+        onClick={[Function]}
+      >
+        <button
+          className="btn btn-primary form-control"
+          onClick={[Function]}
+          type="button"
+        >
+          Add Character
+        </button>
+      </a>
+      <a
+        className="mt-3 w-100 text-center"
+        href="/"
+        onClick={[Function]}
+      >
+        or get back to contacts
+      </a>
+    </form>
+  </div>
+</div>
+`;
+
+exports[`renders when there are no items 1`] = `
+<div
+  className="container"
+>
+  <div>
+    <h1
+      className="text-center mt-5"
+    >
+      Add a new Simpsons
+    </h1>
+    <form>
+      <div
+        className="form-group"
+      >
+        <label>
+          Name Surname:
+        </label>
+        <input
+          className="form-control"
+          onChange={[Function]}
+          placeholder="Full Name"
+          type="name"
+        />
+      </div>
+      <div
+        className="form-group"
+      >
+        <label>
+          Job Title:
+        </label>
+        <input
+          className="form-control"
+          onChange={[Function]}
+          placeholder="Enter job title"
+          type="job"
+        />
+      </div>
+      <div
+        className="form-group"
+      >
+        <label>
+          About Him/Her:
+        </label>
+        <input
+          className="form-control"
+          onChange={[Function]}
+          placeholder="Enter about him/her"
+          type="about"
+        />
+      </div>
+      <div
+        className="form-group"
+      >
+        <label>
+          Image Link
+        </label>
+        <input
+          className="form-control"
+          onChange={[Function]}
+          placeholder="Enter image link"
+          type="img"
+        />
+      </div>
+      <br />
+      <a
+        href="/"
+        onClick={[Function]}
+      >
+        <button
+          className="btn btn-primary form-control"
+          onClick={[Function]}
+          type="button"
+        >
+          Add Character
+        </button>
+      </a>
+      <a
+        className="mt-3 w-100 text-center"
+        href="/"
+        onClick={[Function]}
+      >
+        or get back to contacts
+      </a>
+    </form>
+  </div>
+</div>
+`;

@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders when there are no irems 1`] = `""`;
+
+exports[`renders when there are no items 1`] = `""`;

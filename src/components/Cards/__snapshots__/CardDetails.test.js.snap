@@ -1,0 +1,105 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders when there are no irems 1`] = `
+<div
+  className="container d-flex justify-content-center mb-5"
+>
+  <div
+    className="d-flex flex-column gap-3"
+  >
+    <h1
+      className="text-center"
+    />
+    <img
+      alt=""
+      className="img-fluid"
+    />
+    <div
+      className="content"
+    >
+      <div
+        className=""
+      >
+        <span
+          className="fw-bold"
+        >
+          Job : 
+        </span>
+      </div>
+      <div
+        className=""
+      >
+        <span
+          className="fw-bold"
+        >
+          About: 
+        </span>
+      </div>
+      <br />
+      <a
+        className="mt-3 w-100 text-center"
+        href="/"
+        onClick={[Function]}
+      >
+        <button
+          className="button2"
+        >
+          Geri Dön
+        </button>
+      </a>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`renders when there are no items 1`] = `
+<div
+  className="container d-flex justify-content-center mb-5"
+>
+  <div
+    className="d-flex flex-column gap-3"
+  >
+    <h1
+      className="text-center"
+    />
+    <img
+      alt=""
+      className="img-fluid"
+    />
+    <div
+      className="content"
+    >
+      <div
+        className=""
+      >
+        <span
+          className="fw-bold"
+        >
+          Job : 
+        </span>
+      </div>
+      <div
+        className=""
+      >
+        <span
+          className="fw-bold"
+        >
+          About: 
+        </span>
+      </div>
+      <br />
+      <a
+        className="mt-3 w-100 text-center"
+        href="/"
+        onClick={[Function]}
+      >
+        <button
+          className="button2"
+        >
+          Geri Dön
+        </button>
+      </a>
+    </div>
+  </div>
+</div>
+`;
